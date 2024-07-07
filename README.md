@@ -1,5 +1,5 @@
-![Screenshot_20240707_214418](https://github.com/Anuragroyan/Modern_tip_calc/assets/38952781/c91c9fbd-bffc-4e48-8de1-ac706aa0ac8e)
 ![Screenshot_20240707_214428](https://github.com/Anuragroyan/Modern_tip_calc/assets/38952781/505ab2df-4ecc-4a95-a741-3a3bdb221e49)
+![Screenshot_20240707_214418](https://github.com/Anuragroyan/Modern_tip_calc/assets/38952781/c91c9fbd-bffc-4e48-8de1-ac706aa0ac8e)
 ![Screenshot_20240707_214449](https://github.com/Anuragroyan/Modern_tip_calc/assets/38952781/eddf52c5-6a8c-4fd0-a19a-04dc1b9da58e)
 ![Screenshot_20240707_214456](https://github.com/Anuragroyan/Modern_tip_calc/assets/38952781/3937378d-3c63-4b75-8e5a-4c9dfa759c54)
 ![Screenshot_20240707_214502](https://github.com/Anuragroyan/Modern_tip_calc/assets/38952781/42e93f84-daa9-4164-b1d0-7f94cd9368c2)
